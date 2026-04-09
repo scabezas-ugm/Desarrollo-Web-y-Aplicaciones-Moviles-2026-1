@@ -1,0 +1,21 @@
+body {
+    background-color: gainsboro;
+    color: black;
+}
+
+h1 {
+    color: red;
+}
+
+.icono-links {
+    width: 20px;
+    height: 20px;
+}
+
+.boton {
+    width: 200px;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    color: white;
+    background-color: #072C89;
+}
